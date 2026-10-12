@@ -1,0 +1,8 @@
+streamlit>=1.39
+langgraph>=0.2.60
+langgraph-checkpoint-sqlite
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-google-genai
+python-dotenv>=1.0
+pypdf>=5.0

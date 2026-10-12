@@ -1,0 +1,8 @@
+NORTHSTAR CLOUD SERVICES
+TAX INVOICE
+Invoice Number: NS-882
+Invoice Date: 2026-10-06
+Due Date: 2026-10-18
+Bill To: Example Company
+Amount Due: INR 42,000.00
+Payment Terms: Net 12

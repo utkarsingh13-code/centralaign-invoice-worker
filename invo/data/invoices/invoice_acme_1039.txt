@@ -1,0 +1,8 @@
+ACME OFFICE SUPPLIES
+INVOICE
+Invoice Number: ACME-1039
+Invoice Date: 2026-09-03
+Due Date: 2026-09-20
+Bill To: Example Company
+Total Due: INR 12,500.00
+Payment Terms: Net 17
